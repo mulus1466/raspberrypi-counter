@@ -1,0 +1,6 @@
+In this file I'll put a list of the needed libraries for
+this project.
+
+
+- smtplib
+- email

@@ -1,0 +1,9 @@
+Hello!
+
+You recived this message as a notification
+from the Raspberry Pi you are using as a
+counter and notifier.
+
+The file containing the information registered
+by the Raspberry Pi has been uploaded to the
+cloud, so you should have acces to it now.

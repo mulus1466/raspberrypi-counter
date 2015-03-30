@@ -4,5 +4,4 @@ this project.
 
 - smtplib (Core library)
 - email (Core library)
-- dbupload (https://github.com/jncraton/PythonDropboxUploader)
-- mechanize (dbupload dependencie, available vie pip)
+- dropbox (Available vie pip)

@@ -2,5 +2,7 @@ In this file I'll put a list of the needed libraries for
 this project.
 
 
-- smtplib
-- email
+- smtplib (Core library)
+- email (Core library)
+- dbupload (https://github.com/jncraton/PythonDropboxUploader)
+- mechanize (dbupload dependencie, available vie pip)
